@@ -23,7 +23,7 @@ class Verifica extends CI_Controller {
 			$Welcome->index("Usuário ou Senha inválido!");
 		} else
 		{
-			echo "foi";
+			echo "eroooo";
 		}
 
 	}
